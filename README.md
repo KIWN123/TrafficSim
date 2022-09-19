@@ -1,7 +1,7 @@
-#TrafficSim
+# TrafficSim
 Dedicated repository for the Traffic Simulator FYP under Dr. Chan
 
-###Basic Git Commands
+### Basic Git Commands
 >git clone https://github.com/KIWN123/TrafficSim
 
 Clones the repository to your local device.
