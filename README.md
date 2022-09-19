@@ -1,6 +1,10 @@
 # TrafficSim
 Dedicated repository for the Traffic Simulator FYP under Dr. Chan
 
+## TODO
+- *Design basic class structure for vehicles.*
+- *Design basic class structure for highway.*
+
 ### Basic Git Commands
 >git clone https://github.com/KIWN123/TrafficSim
 
@@ -33,5 +37,6 @@ Updates local devices repository with any new work pushed to the cloud repositor
 >git pull
 
 Automatically fetches and merges the cloud repository into your local repository.
+
 
 
