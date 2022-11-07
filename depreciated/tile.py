@@ -1,4 +1,4 @@
-from basicobj import BasicObj
+from depreciated.basicobj import BasicObj
 
 class Tile(BasicObj):
     def __init__(self, counter, x, y, map):

@@ -1,9 +1,14 @@
 # TrafficSim
 Dedicated repository for the Traffic Simulator FYP under Dr. Chan
 
-## TODO
+## Completed
 - *Design basic class structure for vehicles.*
 - *Design basic class structure for highway.*
+
+## TODO
+- *Finish road piece smoothing and proper offsetting.*
+- *Design basic driver characteristics and logic.*
+- *Design vehicle collision and lane changing.*
 
 ### Basic Git Commands
 >git clone https://github.com/KIWN123/TrafficSim
